@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 💫 About Me:<br>👋 Hi there! I'm Avinash Vishwakarma, a passionate and dedicated Full-Stack Developer. As an intermediate programmer, I'm continuously enhancing my skills and expanding my knowledge in development.<br>My Skills: Frontend: HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS, Material UI, jQuery.<br>Backend: Node.js, Express, <br>Databases: MongoDB, Firebase, SQL.<br>Other Technologies: Git, GitHub, RESTful APIs.<br>I'm currently looking for opportunities to start my career in Software/web development.<br>My goal is to join a dynamic team where I can contribute, learn, and grow as a developer. <br>I'm eager to apply my knowledge in real-world projects and collaborate with experienced professionals.
 
 
